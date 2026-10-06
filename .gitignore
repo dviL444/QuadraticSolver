@@ -1,0 +1,17 @@
+# Временные файлы
+*.tmp
+*.log
+
+# Каталоги сборки
+build/
+dist/
+
+# Файлы окружения Python
+.env
+venv/
+__pycache__/
+
+# Служебные файлы
+.vscode/
+.idea/
+Thumbs.db
